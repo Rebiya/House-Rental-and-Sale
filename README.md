@@ -91,6 +91,4 @@ The application features a **Home Page** with options to either **Sign In** or *
 
 *Developer*
 -Rebiya Musema
--Wubrist Alemu
-
 ---
